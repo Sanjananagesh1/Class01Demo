@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data/ .ipynb_checkpoints/
+venv/
+*.mp4
+data/Class01Demo/
